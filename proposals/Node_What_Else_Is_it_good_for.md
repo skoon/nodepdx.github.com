@@ -25,9 +25,9 @@ published by Wrox press. I've been a web developer for over 15 years.
 
 Links
 -----
-Blog        : http://lazycoder.com/
-Twitter     : @lazycoder
+* Blog        : http://lazycoder.com/
+* Twitter     : @lazycoder
               @LazycoderLinks
-GitHub      : http://github.com/skoon
-BitBucket   : http://bitbucket.org/scott_koon
-podcast     : http://herdingcode.com
+* GitHub      : http://github.com/skoon
+* BitBucket   : http://bitbucket.org/scott_koon
+* podcast     : http://herdingcode.com
